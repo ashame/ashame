@@ -4,7 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ashame&show_icons=true&theme=dark&locale=en" alt="Nathan's GitHub Stats" />
 
-<br>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://github.com/ashame/avgcold">avgcold</a>, a modular discord.js bot</li>
 <li>🌱 I’m currently learning <b>CI, Integration Testing, E2E Testing</b></li>
