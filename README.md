@@ -19,7 +19,7 @@
 
 
 <p align="right">
-I'm Nathan - a 2nd year student at <a href="https://langara.ca/" alt="Langara College Homepage">Langara College</a> studying Computer Science.<br>
+I'm Nathan, a 2nd year student at <a href="https://langara.ca/" alt="Langara College Homepage">Langara College</a> studying Computer Science.<br>
 
 In my free time, I enjoy working on projects - mostly ones that <a href='https://github.com/ashame/broker-search' alt='broker-search'>pique my interest</a>, or <a href='https://github.com/ashame/rclone-uploader' alt='rclone-uploader'>directly contribute to easing my day to day activities.</a> I'm also an avid gamer - spending my hours on titles like Lost Ark, Apex Legends, and Osu!.<br>
 
