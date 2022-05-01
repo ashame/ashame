@@ -4,6 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ashame&show_icons=true&theme=dark&locale=en" alt="Nathan's GitHub Stats" />
 
+<br>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://github.com/ashame/avgcold">avgcold</a>, a modular discord.js bot</li>
 <li>🌱 I’m currently learning <b>CI, Integration Testing, E2E Testing</b></li>
@@ -15,11 +16,11 @@
 </ul>
 
 <h3 align="right">About Me</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashame&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashame&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" height="150%"/>
 
 
 <p align="right">
-I'm Nathan, a 2nd year student at <a href="https://langara.ca/" alt="Langara College Homepage">Langara College</a> studying Computer Science.<br>
+I'm Nathan, a 2nd year Computer science student at <a href="https://langara.ca/" alt="Langara College Homepage">Langara College</a>.<br>
 
 In my free time, I enjoy working on projects - mostly ones that <a href='https://github.com/ashame/broker-search' alt='broker-search'>pique my interest</a>, or <a href='https://github.com/ashame/rclone-uploader' alt='rclone-uploader'>directly contribute to easing my day to day activities.</a> I'm also an avid gamer - spending my hours on titles like Lost Ark, Apex Legends, and Osu!.<br>
 
