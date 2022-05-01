@@ -22,7 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ashame"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ashame" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashame&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashame" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashame&show_icons=true&theme=dark&locale=en" alt="ashame" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashame&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashame" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ashame&show_icons=true&theme=dark&locale=en" alt="ashame" /></p>
 
