@@ -20,11 +20,9 @@
 
 
 <p align="right">
-I'm Nathan, a 2nd year Computer Science student at <a href="https://langara.ca/" alt="Langara College Homepage">Langara College</a>.<br>
+I'm Nathan, a Software Developer at <a href="https://www.ensemble.com/" alt="Ensemble Systems">Ensemble Systems</a>.<br>
 
-In my free time, I enjoy working on projects - mostly ones that <a href='https://github.com/ashame/broker-search' alt='broker-search'>pique my interest</a>, or <a href='https://github.com/ashame/rclone-uploader' alt='rclone-uploader'>directly contribute to easing my day to day activities.</a> I'm also an avid gamer - spending my hours on titles like Lost Ark, Apex Legends, and Osu!.<br>
-
-I'm currently looking for opportunitites to grow in a role as a Software Developer, either in an internship or full-time capacity.
+In my free time, I enjoy working on projects - mostly ones that <a href='https://github.com/ashame/broker-search' alt='broker-search'>pique my interest</a>, or <a href='https://github.com/ashame/rclone-uploader' alt='rclone-uploader'>directly contribute to easing my day to day activities.</a> I'm also an avid gamer - spending my hours on titles such as Lost Ark, Apex Legends, F1, Overwatch, and Osu!<br><br><br>
 
 <small><i>NOTE: While GitHub stats indicate Java as my most used language, the majority of my recent projects in the last 4-5 years have been written in JavaScript, Python, and TypeScript</small></i>
 </p>
