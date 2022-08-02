@@ -7,12 +7,12 @@
 <br>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://github.com/ashame/avgcold">avgcold</a>, a modular discord.js bot</li>
-<li>🌱 I’m currently learning <b>CI, Integration Testing, E2E Testing</b></li>
-<li>🎓 Next up: <b>Swift</b>, <b>Golang</b>, <b>NX</b></li>
+<li>🌱 I’m currently learning <b>NX, Nest.js</b></li>
+<li>🎓 Next up: <b>Swift</b>, <b>Golang</b></li>
 <li>👯 I’m looking to collaborate on <a alt="discordjs-typescript-template" href="https://github.com/ashame/discordjs-typescript-template">discordjs-typescript-template</a></li>
-<li>⛳ My hobbies are <b>coding 💻</b>, <b>music 🎵</b>, and <b>gaming 🎮</b>
+<li>⛳ My hobbies are <b>coding 💻</b>, <b>music 🎵</b>, <b>anime 🍿</b>, and <b>gaming 🎮</b>
 <li>💬 Ask me about <b>JavaScript, React, or TypeScript</b></li>
-<li>📫 Reach me at <b><a href="mailto:nathan@ashm.ca">nathan@ahsm.ca</a></b>, or <a href="https://linkedin.com/in/nathan-s-liu" alt="LinkedIn profile link">connect with me on LinkedIn</a></li>
+<li>📫 Reach me at <b><a href="mailto:nathan@ashm.ca">nathan@ashm.ca</a></b>, or <a href="https://linkedin.com/in/nathan-s-liu" alt="LinkedIn profile link">connect with me on LinkedIn</a></li>
 </ul>
 
 <h3 align="right">About Me</h3>
